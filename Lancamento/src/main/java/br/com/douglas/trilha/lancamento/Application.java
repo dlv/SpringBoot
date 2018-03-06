@@ -1,4 +1,5 @@
-package hello;
+
+package br.com.douglas.trilha.lancamento;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
